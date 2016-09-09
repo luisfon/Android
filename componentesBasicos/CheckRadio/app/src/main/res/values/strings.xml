@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CheckRadio</string>
+    <string name="sexo">sexo</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="pulsar">Pulsar</string>
+</resources>
